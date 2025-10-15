@@ -5,7 +5,9 @@
 
 We propose a novel remote sensing change detection task, non-registration change detection, to address the increasing number of emergencies such as natural disasters, anthropogenic accidents, and military strikes. Refer to our paper for more details.  
 
-We will update the code and dataset as soon as possible. Please stay tuned!!!
+Our core work is to provide a non-registration image transformation solution, which can be found in non_registration_transformation.py
+
+Comparative experiments on the change detection can be found in the [UCD](https://github.com/AI4RS/UCD) library.
 
 ### Citation
 
